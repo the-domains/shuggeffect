@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Shuggeffect]]></title>
         <description><![CDATA[Shuggeffect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shuggeffect/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 08 May 2016 12:13:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/shuggeffect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is perfection?]]></title>
+            <description><![CDATA[<article><h1>What is perfection?</h1><p>Is perfection always getting it right? Is it always being right? You might be saying, yes...of course, that is perfection, and you would be right. On the other hand, is learning a life long lesson from a mistake perfection? Is giving others more than they expect perfection?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4740471f90316c3983ac824b35c00309b120d447.jpg"></article>]]></description>
+            <link>http://www.leeprint.com/blog/2015/10/07/what-is-perfection/</link>
+            <guid isPermaLink="false">88563925-f37c-4c0a-b3f3-a5ea3e16d7a3</guid>
+            <pubDate>Sun, 08 May 2016 12:13:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The secret to being #1 on any Google search]]></title>
             <description><![CDATA[<article><h1>The secret to being #1 on any Google search</h1><p>Last week I was able to go to my first Daddy Daughter dance, and I had an absolute blast! It was a memory that I will always hold near and dear to my heart. When we arrived I was relieved of a fear that my little girl would be nervously attached to my leg.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4740471f90316c3983ac824b35c00309b120d447.jpg"></article>]]></description>
