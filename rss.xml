@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shuggeffect]]></title>
+        <description><![CDATA[Shuggeffect]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 12:13:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The secret to being #1 on any Google search]]></title>
+            <description><![CDATA[<article><h1>The secret to being #1 on any Google search</h1><p>Last week I was able to go to my first Daddy Daughter dance, and I had an absolute blast! It was a memory that I will always hold near and dear to my heart. When we arrived I was relieved of a fear that my little girl would be nervously attached to my leg.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4740471f90316c3983ac824b35c00309b120d447.jpg"></article>]]></description>
+            <link>http://www.leeprint.com/blog/2015/03/25/the-secret-to-being-1-on-any-google-search/</link>
+            <guid isPermaLink="false">c1d94055-a3a8-429d-a30b-516b4b68e951</guid>
+            <pubDate>Sun, 08 May 2016 12:13:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
