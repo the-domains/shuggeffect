@@ -1,8 +1,26 @@
-layout_spectrum: 0.6851064
-color:
-  saturation: 0.793617
-  lightness: 0.5425532
-  brandStrength: 0.8015254
-  rhythmicContrast: 0.7340425
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5617021
+color:
+  saturation: 0.5531915
+  brandStrength: 0.8015254
+  lightness: 0.5425532
+  brandColors:
+    - '#000000'
+    - '#3F4249'
+    - '#FFFFFF'
+    - '#9E968C'
+    - '#C1BCB8'
+  rhythmicContrast: 0.4744681
+layout_spectrum: 0.5127659
 name: Shuggeffect
