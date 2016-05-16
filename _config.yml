@@ -33,8 +33,8 @@ color:
     - '#fef200'
     - '#000000'
     - '#abc18f'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
