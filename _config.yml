@@ -1,6 +1,6 @@
 name: Shuggeffect
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74379
 typography_spectrum: 0.60572
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#597828'
     - '#8b982f'
     - '#e4f4b6'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.5625
   saturation: 1
   rhythmicContrast: 0
