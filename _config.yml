@@ -1,3 +1,7 @@
+name: Shuggeffect
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5617021
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5531915
-  brandStrength: 0.8015254
-  lightness: 0.5425532
   brandColors:
     - '#000000'
     - '#3F4249'
     - '#FFFFFF'
     - '#9E968C'
     - '#C1BCB8'
+  brandStrength: 0.8015254
+  lightness: 0.5425532
+  saturation: 0.5531915
   rhythmicContrast: 0.4744681
-typography_spectrum: 0.5617021
-layout_spectrum: 0
-name: Shuggeffect
+purpose: []
